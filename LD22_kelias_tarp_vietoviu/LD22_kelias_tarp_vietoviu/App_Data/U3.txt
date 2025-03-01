@@ -1,0 +1,17 @@
+5 8
+Preivai
+Saukai
+Salai
+Rekai
+Balkai
+
+Preivai    Balkai
+
+Preivai    Saukai     2
+Preivai    Salai      2
+Preivai    Balkai     10
+Saukai     Balkai     7
+Saukai     Rekai      2
+Salai 	   Rekai      4
+Salai 	   Balkai     6
+Rekai 	   Balkai     5
